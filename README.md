@@ -9,7 +9,8 @@ Most of my GitHub work centers around password cracking, including some UX and m
 A more thorough bio with links to projects and research is [here](https://www.techsolvency.com/roycewilliams/).
 
 <div>
-<img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=roycewilliams&count_private=true" /> <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycewilliams&layout=compact" />
+<img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=roycewilliams&count_private=true" > 
+<!-- img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycewilliams&layout=compact" -->
 </div>
 <!--
 **roycewilliams/roycewilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
