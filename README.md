@@ -4,7 +4,7 @@ I'm Royce Williams. Information security by day, security research as [Tech Solv
 
 I am a public-interest technologist at heart. I believe that the keepers and operators of technology and data should first do no harm (though second-order effects mean trade-offs - for example, a surgeon does some "harm" cutting into a patient, for the patient's own good).
 
-Most of my GitHub work centers around password cracking, including some UX and minor housekeeping work on [hashcat](https://github.com/hashcat/hashcat). I have been [a member of Team Hashcat](https://github.com/hashcat/hashcat/blob/master/docs/team.txt) (hashcat's password-cracking competition group) since 2016. I also collaborate with other teams and groups.
+Most of my GitHub work centers around password cracking, including some feature requests, docs, UX, and minor housekeeping work on [hashcat](https://github.com/hashcat/hashcat). I have been [a member of Team Hashcat](https://github.com/hashcat/hashcat/blob/master/docs/team.txt) (hashcat's password-cracking competition group) since 2016. I also collaborate with other teams and groups.
 
 A more thorough bio with links to projects and research is [here](https://www.techsolvency.com/roycewilliams/).
 
