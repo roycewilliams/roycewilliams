@@ -11,7 +11,7 @@ A more thorough bio with links to projects and research is [here](https://www.te
 And a special shout-out to my Alaskan security colleague [ak_hepcat](https://github.com/akhepcat)! Lots of fun stuff in his repos.
 
 <div>
-<img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=roycewilliams&count_private=true&theme=dark" > 
+<img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=roycewilliams&count_private=true&theme=dark&custom_title=My%20stats" > 
 <!-- img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycewilliams&layout=compact" -->
 </div>
 <!--
