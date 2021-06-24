@@ -8,6 +8,8 @@ Most of my GitHub work centers around password cracking, including some UX and m
 
 A more thorough bio with links to projects and research is [here](https://www.techsolvency.com/roycewilliams/).
 
+Ans a special shout-out to my Alaskan security colleague [ak_hepcat](https://github.com/akhepcat)!
+
 <div>
 <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=roycewilliams&count_private=true&theme=dark" > 
 <!-- img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycewilliams&layout=compact" -->
