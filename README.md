@@ -11,6 +11,16 @@ A more thorough bio with links to projects and research is [here](https://www.te
 And a special shout-out to my Alaskan security colleague [ak_hepcat](https://github.com/akhepcat)! Lots of fun stuff in his repos.
 
 <div>
+  <p>Mastodons I'm on:</p>
+  <ul>
+    <li><a rel="me" href="https://mastodon.social/@tychotithonus">@tychotithonus@mastodon.social</a> (general)</li>
+    <li><a rel="me" href="https://infosec.exchange/@tychotithonus">@tychotithonus@infosec.exchange</a> (security-specific, TBD)</li>
+    <li><a rel="me" href="https://mastodon.cloud/@royce">@royce@mastodon.cloud</a> (backup)</li>
+  </ul>
+</div>
+
+
+<div>
 <!-- img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=roycewilliams&count_private=true&theme=dark&custom_title=My%20stats" --> 
 <!-- img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycewilliams&layout=compact" -->
 </div>
